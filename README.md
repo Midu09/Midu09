@@ -15,10 +15,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Express, Angular, Django, Flask
+- **Languages:** Python, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Node.js, Express
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
+- **Tools:** Git, Docker, VS Code
 - **Cloud Platforms:** AWS, Azure, Google Cloud Platform
 
 ## 🛠️ Projects
@@ -40,9 +40,7 @@ A 2D game developed using Unity and C#. It features multiple levels, different c
 
 ## 📫 How to reach me
 
-- **Email:** midu09@example.com
-- **LinkedIn:** [Midu09](https://www.linkedin.com/in/midu09)
-- **Twitter:** [@Midu09](https://twitter.com/Midu09)
+- **Email:** doanminhdung662@gmail.com
 
 ## 💬 Let's Connect!
 
