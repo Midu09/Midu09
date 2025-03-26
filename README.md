@@ -25,15 +25,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 Here are some of the projects I've been working on:
 
-### [Project 1: Awesome App](https://github.com/Midu09/awesome-app)
-A web application built with React and Node.js that allows users to manage tasks efficiently. It features user authentication, real-time updates, and a responsive design.
-
-### [Project 2: Data Science Toolkit](https://github.com/Midu09/data-science-toolkit)
-A collection of data science tools and utilities written in Python. It includes data cleaning functions, visualization tools, and machine learning model implementations.
-
-### [Project 3: Game Development](https://github.com/Midu09/game-development)
-A 2D game developed using Unity and C#. It features multiple levels, different character abilities, and an engaging storyline.
-
 ## 📈 GitHub Stats
 
 ![Midu09's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midu09&show_icons=true&theme=radical)
