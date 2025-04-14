@@ -1,40 +1,34 @@
-- 👋 Hi, I’m @Midu09
-- I’m a passionate programmer who loves technology and wants to share my knowledge with the GitHub community. 😊
+Hi there, I'm Midu09! 👋
+Welcome to my GitHub profile! I'm a passionate developer who loves coding, learning new technologies, and contributing to open-source projects. I believe in sharing knowledge and collaborating with others in the tech community. 🚀
 
-Welcome to my GitHub page! I’ve completed many software development projects and want to continue learning and developing my skills. 🚀
+🔧 Technologies & Tools
+Languages: Python, JavaScript, TypeScript
 
-I have experience in this field and want to help others in the GitHub community. 🤝 If you want to know more, please let me know. I’ll try my best to help you! 😊
+Frameworks/Libraries: React, Node.js, Express
 
-<!---
-Midu09/Midu09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hi there, I'm Midu09! 👋
+Databases: MySQL, PostgreSQL, MongoDB
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding, learning new technologies, and contributing to open source projects.
+Tools: Git, Docker, VS Code
 
-## 🔧 Technologies & Tools
+Cloud Platforms: AWS, Azure, Google Cloud Platform
 
-- **Languages:** Python, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Node.js, Express
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, VS Code
-- **Cloud Platforms:** AWS, Azure, Google Cloud Platform
-
-## 🛠️ Projects
-
+🛠️ Projects
 Here are some of the projects I've been working on:
 
-## 📈 GitHub Stats
+Project 1 – https://github.com/Midu09/LawsFullstack
 
-![Midu09's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midu09&show_icons=true&theme=radical)
+Project 2 – https://github.com/Midu09/Social-Media-Web
 
-## 📫 How to reach me
+Project 3 – https://github.com/Midu09/todo_app_pro
 
-- **Email:** doanminhdung662@gmail.com
+📈 GitHub Stats
 
-## 💬 Let's Connect!
 
-Feel free to reach out if you want to collaborate on a project, need help with something, or just want to connect!
+📫 How to reach me
+Email: doanminhdung662@gmail.com
+
+💬 Let's Connect!
+Feel free to reach out if you want to collaborate on a project, need help with something, or just want to connect! I’m always happy to chat about technology and development. 😊
 
 Thanks for visiting my profile! Have a great day! 😄
+
